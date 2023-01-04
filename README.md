@@ -61,4 +61,4 @@ link: <https://google.com>
 
 
 
-![figure](./images/figure.png)
+![figure](./img/figure.png)

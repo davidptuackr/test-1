@@ -57,3 +57,8 @@ injection
 link: <https://google.com>
 [link2](https://google.com)
 [link3](https://google.com, "google link")
+
+
+
+
+![figure](./images/figure.png)
